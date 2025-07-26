@@ -6,8 +6,28 @@
     <description>Recent content in Posts on Wood&#39;s Tea</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jul 2025 11:45:08 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 14:06:30 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In which a 59 year old data science graduate student finds his way</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Sat, 26 Jul 2025 14:06:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;Coming up in September I have the fifth course of twelve in the data science
+master&amp;rsquo;s program at the Harvard Extension School. It&amp;rsquo;s CSCI E-89, Deep Learning.
+Between now and then I have a little time to brush up on some things I&amp;rsquo;ll need
+for that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introductory deep learning concepts so I&amp;rsquo;m not going in cold&lt;/li&gt;
+&lt;li&gt;Math for deep learning: linear algebra, MV calc&amp;hellip;?&lt;/li&gt;
+&lt;li&gt;Python/pandas practice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ve also just bought a Macbook to replace the 5+ year old Windows laptop that
+didn&amp;rsquo;t quite cut it last semester when running ensemble models and which
+occasionally just goes dark and has to be shut down hard. So I&amp;rsquo;ve got some
+work to do getting comfortable with its OS again as well as various tools
+I&amp;rsquo;ll be using.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
