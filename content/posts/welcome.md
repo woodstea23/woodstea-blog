@@ -1,6 +1,6 @@
 +++
 date = '2025-07-26T14:06:30-05:00'
-draft = true
+draft = false
 title = 'In which a 59 year old data science grad student finds his way'
 +++
 Coming up in September I have the fifth course of twelve in the data science
