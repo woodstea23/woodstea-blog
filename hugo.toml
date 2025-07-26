@@ -1,4 +1,8 @@
 baseURL = 'https://woodstea.com/'
 languageCode = 'en-us'
 title = "Wood's Tea"
-theme = 'ananke'
+subtitle = "In which a 59 year old data science student finds his way"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/adityatelange/hugo-PaperMod'
